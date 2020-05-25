@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7abc1a6-2835-42a6-b40e-598f61b472b7" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XPvgOrLyjL7eEETcreN65TGhxL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="autowireByType&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.AutowireByTypeDependencyDescriptor&#10;finishBeanFactoryInitialization&#9;PSI&#9;JAVA://org.springframework.context.support.AbstractApplicationContext#finishBeanFactoryInitialization&#10;preInstantiateSingletons&#9;PSI&#9;JAVA://org.springframework.beans.factory.config.ConfigurableListableBeanFactory#preInstantiateSingletons&#10;doLoadBeanDefinitions&#9;PSI&#9;JAVA://org.springframework.beans.factory.xml.XmlBeanDefinitionReader#doLoadBeanDefinitions&#10;refresh&#9;PSI&#9;JAVA://org.springframework.context.ConfigurableApplicationContext#refresh&#10;doGetBean&#9;PSI&#9;JAVA://org.springframework.beans.factory.support.AbstractBeanFactory#doGetBean&#10;prepareBeanFactory&#9;PSI&#9;JAVA://org.springframework.context.support.AbstractApplicationContext#prepareBeanFactory" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/编程/Spring Cloud微服务实战/springcloud_sell/springcloud_sell" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test.aop" />
+      <recent name="com.test.autowired" />
+      <recent name="com.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\spring_code_read\src\main\java\com\test\autowired" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Enter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enter" />
+      <module name="spring_code_read" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Enter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7abc1a6-2835-42a6-b40e-598f61b472b7" name="Default" comment="" />
+      <created>1558590740568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558590740568</updated>
+      <workItem from="1558590742157" duration="5091000" />
+      <workItem from="1558667076998" duration="5335000" />
+      <workItem from="1562501078654" duration="600000" />
+      <workItem from="1567575062349" duration="722000" />
+      <workItem from="1573300167720" duration="2396000" />
+      <workItem from="1573476545329" duration="1815000" />
+      <workItem from="1573543981630" duration="835000" />
+      <workItem from="1573568333207" duration="2464000" />
+      <workItem from="1573612938581" duration="8708000" />
+      <workItem from="1573647014243" duration="3703000" />
+      <workItem from="1573987888491" duration="1395000" />
+      <workItem from="1574151547683" duration="6624000" />
+      <workItem from="1574217732780" duration="2592000" />
+      <workItem from="1574260433853" duration="3263000" />
+      <workItem from="1574303793417" duration="5259000" />
+      <workItem from="1574408058009" duration="843000" />
+      <workItem from="1574517281850" duration="978000" />
+      <workItem from="1574561474440" duration="17000" />
+      <workItem from="1574669566860" duration="1068000" />
+      <workItem from="1580960666009" duration="4249000" />
+      <workItem from="1581044967521" duration="1586000" />
+      <workItem from="1581416809666" duration="4989000" />
+      <workItem from="1581476235547" duration="6533000" />
+      <workItem from="1581496406942" duration="7317000" />
+      <workItem from="1581558717134" duration="10289000" />
+      <workItem from="1581597636249" duration="5760000" />
+      <workItem from="1581652001348" duration="3899000" />
+      <workItem from="1581673498856" duration="6870000" />
+      <workItem from="1581734465159" duration="8262000" />
+      <workItem from="1581821131215" duration="10505000" />
+      <workItem from="1581857181649" duration="5326000" />
+      <workItem from="1581921672830" duration="12042000" />
+      <workItem from="1581995775616" duration="4880000" />
+      <workItem from="1582019457777" duration="7732000" />
+      <workItem from="1582075713024" duration="12213000" />
+      <workItem from="1582163586172" duration="1717000" />
+      <workItem from="1582177298355" duration="720000" />
+      <workItem from="1582189859797" duration="3724000" />
+      <workItem from="1582256794428" duration="977000" />
+      <workItem from="1582293357958" duration="1445000" />
+      <workItem from="1583142816242" duration="1186000" />
+      <workItem from="1583144286674" duration="3078000" />
+      <workItem from="1583202596513" duration="6961000" />
+      <workItem from="1583288607949" duration="8714000" />
+      <workItem from="1583546866188" duration="69000" />
+      <workItem from="1589257157696" duration="11000" />
+      <workItem from="1590044144434" duration="2000" />
+      <workItem from="1590053154511" duration="600000" />
+      <workItem from="1590113841802" duration="4231000" />
+      <workItem from="1590128292898" duration="7764000" />
+      <workItem from="1590236674165" duration="5320000" />
+      <workItem from="1590285892497" duration="7738000" />
+      <workItem from="1590377203146" duration="490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1590237158948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590237158948" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590313506225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590313506225" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583546936958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583546936958" />
+    <state width="1493" height="231" key="GridCell.Tab.0.bottom" timestamp="1590335087153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590335087153" />
+    <state width="1493" height="231" key="GridCell.Tab.0.center" timestamp="1590335087153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590335087153" />
+    <state width="1493" height="231" key="GridCell.Tab.0.left" timestamp="1590335087153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590335087153" />
+    <state width="1493" height="231" key="GridCell.Tab.0.right" timestamp="1590335087153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590335087153" />
+    <state width="1493" height="231" key="GridCell.Tab.1.bottom" timestamp="1590335087153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590335087153" />
+    <state width="1493" height="231" key="GridCell.Tab.1.center" timestamp="1590335087153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590335087153" />
+    <state width="1493" height="231" key="GridCell.Tab.1.left" timestamp="1590335087153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590335087153" />
+    <state width="1493" height="231" key="GridCell.Tab.1.right" timestamp="1590335087153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="231" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590335087153" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1590377393444">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1590377393444" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1581771969665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581771969665" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590377206754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590377206754" />
+    <state x="178" y="0" key="new project wizard" timestamp="1582294332563">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582294332563" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590313521213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590313521213" />
+    <state x="397" y="95" key="spring file set editor" timestamp="1590313129922">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="397" y="95" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1590313129922" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.11.RELEASE/spring-beans-4.3.11.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.class</url>
+          <line>167</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.11.RELEASE/spring-context-4.3.11.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java</url>
+          <line>265</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.11.RELEASE/spring-web-4.3.11.RELEASE.jar!/org/springframework/web/context/support/AnnotationConfigWebApplicationContext.class</url>
+          <line>55</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.11.RELEASE/spring-aop-4.3.11.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

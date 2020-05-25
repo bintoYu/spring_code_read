@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://www.springframework.org/schema/beans"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd" default-autowire="byName">
+
+    <bean id="testService" class="com.test.TestService"/>
+
+    <bean class="com.test.Person" id="person">
+        <constructor-arg index="0" value="test"/>
+    </bean>
+    <bean class="com.test.TestBean" id="testBean">
+        <property name="person" ref="person"/>
+    </bean>
+
+    <aop:aspectj-autoproxy/>
+    <bean id="student" class="com.test.aop.Student"/>
+    <bean class="com.test.aop.AspectJTest"/>
+    <bean id="cglibTest" class="com.test.aop.CglibTest"/>
+</beans>
